@@ -1,0 +1,8 @@
+1. В demo 2 коммита, которых нет в master
+Merge branch 'buttons' into demo
+Merge branch 'boots' into release
+2. B master коммиты, котррых нет в demo
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat
+Merge remote-tracking branch 'origin/buttons' into boots bi
+Merge remote-tracking branch 'origin/boots' into boots buttons fix readme
